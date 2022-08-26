@@ -23,3 +23,5 @@ Boom, you have your own movie streaming site.
 This also includes a login/register system (which requires an invite code to register).
 
 Enjoy!
+
+(Also, please ignore the fact that almost all cinema related PHP was throw into one file, lol)
